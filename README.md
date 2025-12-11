@@ -1,15 +1,12 @@
 <div align="center">
- 
   <h1>¡Hola, soy Jonathan! 👋</h1>
   <h3>Desarrollador Web | Soporte IT | Tech Enthusiast</h3>
   
   <p>
-    <em>"Transformando ideas en experiencias digitales desde Chile 🇨🇱 (antes 🇨🇺)"</em>
+    <em>"Transformando ideas en experiencias digitales desde Chile"</em>
   </p>
 
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+ 
   <a href="mailto:jonathanguerra278@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -19,7 +16,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un apasionado de la tecnología con base en **Santiago de Chile**. A finales de 2023, decidí dar un giro total a mi carrera enfocándome al 100% en el desarrollo de software y el soporte TI. 
+Soy un apasionado de la tecnología con base en **Melipilla, Chile**. A finales de 2023, decidí dar un giro total a mi carrera enfocándome al 100% en el desarrollo de software y el soporte TI. 
 
 Actualmente combino mi formación académica en **Duoc UC** con experiencia real trabajando para empresas y clientes freelance. Me especializo en crear **aplicaciones web modernas, rápidas y escalables**, ayudando a empresas a digitalizar sus procesos.
 
@@ -39,19 +36,20 @@ Actualmente combino mi formación académica en **Duoc UC** con experiencia real
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
-**Infraestructura & Herramientas**
+**Infraestructura & Cloud**
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Deployment-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth-Security-blue?style=flat-square&logo=security&logoColor=white" />
 </div>
 
 ---
-
-
 
 <div align="center">
   <br>
