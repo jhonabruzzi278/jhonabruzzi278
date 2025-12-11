@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pzv687gwE/giphy.gif" width="100" />
+ 
   <h1>¡Hola, soy Jonathan! 👋</h1>
   <h3>Desarrollador Web | Soporte IT | Tech Enthusiast</h3>
   
@@ -51,25 +51,7 @@ Actualmente combino mi formación académica en **Duoc UC** con experiencia real
 
 ---
 
-### 💼 Experiencia & Trayectoria
 
-| Período | Rol | Organización | Descripción |
-| :--- | :--- | :--- | :--- |
-| *2024 - Presente* | **Soporte IT** | **CasChile S.A.** | Soporte técnico integral (hardware/software) asegurando la continuidad operativa de la empresa. |
-| *2024 - Presente* | **Full Stack Dev** | **Freelance** | Desarrollo de webs a medida con Astro y SQL. Digitalización de negocios. |
-
-### 🎓 Educación
-
-* **Técnico en Informática y Telecomunicaciones** | *Duoc UC* (2024 - Presente)
-    * *Especialización en Desarrollo de Software.*
-
----
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 <div align="center">
   <br>
